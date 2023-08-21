@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @busraaydogan1
 - 👀 I’m interested in ABAP, CDS, IDoc
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CDS
 - 📫 How to reach me: busraaydogn@gmail.com
 
 <!---
