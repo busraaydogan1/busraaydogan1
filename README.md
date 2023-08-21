@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @busraaydogan1
+- 👀 I’m interested in ABAP, CDS, IDoc
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: busraaydogn@gmail.com
+
+<!---
+busraaydogan1/busraaydogan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
