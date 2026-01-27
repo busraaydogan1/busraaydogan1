@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @busraaydogan1
-- 👀 I’m interested in ABAP, CDS, IDoc, RPA(UiPath)
-- 🌱 I’m currently learning CDS
+- 👀 I’m interested in ABAP, RAP, CDS, IDoc, RPA(UiPath)
+- 🌱 I’m currently learning CDS, RAP
 - 📫 How to reach me: busraaydogn@gmail.com
 
 <!---
