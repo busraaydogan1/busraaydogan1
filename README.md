@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @busraaydogan1
-- 👀 I’m interested in ABAP, RAP, CDS, IDoc, RPA(UiPath)
-- 🌱 I’m currently learning CDS, RAP
-- 📫 How to reach me: busraaydogn@gmail.com
+👋 Hi, I’m @busraaydogan1
+👀 I’m interested in ABAP, RAP, CDS, IDoc, RPA(UiPath)
+🌱 I’m currently learning CDS, RAP
+📓 Learning log: LEARNING.md — weekly notes on what I'm learning
 
 <!---
 busraaydogan1/busraaydogan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
