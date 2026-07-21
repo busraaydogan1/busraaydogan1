@@ -1,0 +1,19 @@
+2026-07-21 — CDS View: basic syntax
+
+
+
+@AccessControl.authorizationCheck: #CHECK
+    define view entity ZI_Product
+      as select from zproduct
+    {
+      key product_id,
+          product_name,
+          price
+    }
+
+
+
+as select from — the source table/CDS view the entity is built on.
+key — marks the fields that form the entity's key.
+
+
